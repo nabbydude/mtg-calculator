@@ -1,0 +1,13 @@
+{
+  "name": "mtg-calculator",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^15.12.2",
+    "typescript": "^4.3.4"
+  },
+  "dependencies": {
+    "scryfall-client": "^0.18.6"
+  }
+}
